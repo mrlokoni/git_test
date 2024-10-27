@@ -1,0 +1,17 @@
+[33mcommit c06df7fd3010c905b46a3c70d59016f930440510[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: mrlokoni <32080260+mrlokoni@users.noreply.github.com>
+Date:   Sat Oct 26 23:20:13 2024 -0400
+
+    Edit Readme.md and hello_world.txt
+
+[33mcommit d0757e5f1f02e8b02cfaaea82000f26b228319b0[m
+Author: mrlokoni <32080260+mrlokoni@users.noreply.github.com>
+Date:   Sat Oct 26 23:16:18 2024 -0400
+
+    Add hello_world.txt
+
+[33mcommit 0e5e4a605acaa3117a29d1a6090e99bb750a8cc3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mrlokoni <32080260+mrlokoni@users.noreply.github.com>
+Date:   Fri Oct 25 09:34:38 2024 -0400
+
+    Initial commit
